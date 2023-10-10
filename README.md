@@ -47,20 +47,15 @@ We have train (8523) and test (5681) data set, train data set has both input and
 | Outlet_Type	| Whether the outlet is just a grocery store or some sort of supermarket |
 
 
+### Evaluation Metric
+Your model performance will be evaluated on the basis of your prediction of the sales for the test data (test.csv), which contains similar data-points as train except for the sales to be predicted. Your submission needs to be in the format as shown in sample submission.
+
+We at our end, have the actual sales for the test dataset, against which your predictions will be evaluated. We will use the Root Mean Square Error value to judge your response.
 
 
 
-
-
-
-
-
- 
-### Evaluation Metric:
-The evaluation metric for this competition is F1 Score.
-
-### Public and Private Split:
-Test data is further randomly divided into Public (40%) and Private (60%) data.
+### Public and Private Split
+Test file is further divided into Public (25%) and Private (75%)
 
 - Your initial responses will be checked and scored on the Public data.
 - The final rankings would be based on your private score which will be published once the competition is over.
