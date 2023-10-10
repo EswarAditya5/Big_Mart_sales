@@ -59,3 +59,9 @@ Test file is further divided into Public (25%) and Private (75%)
 
 - Your initial responses will be checked and scored on the Public data.
 - The final rankings would be based on your private score which will be published once the competition is over.
+
+
+### Conclusion:
+Thank you for visiting this project!
+
+**Author:** Eswar Aditya **Contact:** eswaraditya63@gmail.com
